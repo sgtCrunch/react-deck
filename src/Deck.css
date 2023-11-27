@@ -1,0 +1,12 @@
+.pile{
+    position: relative;
+}
+
+img{
+    position: absolute;
+}
+
+.DeckArea {
+    text-align: center;
+    background-color: green;
+}
